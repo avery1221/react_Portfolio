@@ -1,0 +1,64 @@
+p {
+  color: #777777;
+}
+.content {
+  color: darkblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.25em;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+}
+a {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.name {
+  color: white;
+  background-color: royalblue;
+}
+nav {
+  font-size: larger;
+}
+header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #ffffff;
+}
+.header-container {
+  background-color: white;
+}
+.nav-row {
+  background-color: white;
+}
+#headerContent {
+  color: teal;
+}
+#contentHeader {
+  border-bottom: 2px solid #777777;
+}
+#frmContact {
+  color: #777777;
+}
+#btnSubmit {
+  font-size: x-large;
+  color: white;
+  background-color: royalblue;
+}
+.tag {
+  color: white;
+  background-color: royalblue;
+}
+.card-text {
+  text-align: left;
+  font-size: 12pt;
+}
+.card-title {
+  text-align: left;
+}
+.card-subtitle {
+  text-align: left;
+  font-size: smaller;
+  color: lightblue;
+}
+a.card-link {
+  text-align: left;
+}
