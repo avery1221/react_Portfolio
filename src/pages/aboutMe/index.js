@@ -17,24 +17,23 @@ function AboutMe() {
               height="200px"
               width="200px"
               className="myPicture img-fluid"
-              src="./images/jomain!.jpg"
+              src="./images/avery.jpg"
               alt=""
             />
           </div>
           <div className="col-12 col-md-8 pt-2 pt-md-0">
             <p>
               I currently live and work in Lawrence Kansas. I went to Johnson
-              County Community college for a 2 years trying to earn a degree in
-              computer science.
+              County Community college for a 2 years in pursuit of a web development degree, 
+              and am now looking to show my skills in the full stack web development job field. 
             </p>
             <p>
               {" "}
-              I have worked almost every kind of job you can possibly get with
-              almost no skills and i am ready to put my coding knowledge to use
-              and do something that allows me to apply my skills and earn more.
-              I have learned to deveop software for multiple platforms using
-              several different technologies, and i am always eager to learn
-              something new.
+              I have worked a very wide array of jobs you can possibly get with
+              little to no skills necessary. Now i am ready to put my coding knowledge to use
+              and do something that allows me to apply my skills and have much more job potential. 
+              I have learned to develop software for multiple platforms using
+              several different technologies, and i am always eager to put my knowledge out there. 
             </p>
           </div>
         </div>
